@@ -91,10 +91,10 @@
                                 <div id="responsive-nav">
                                         <!-- NAV -->
                                         <ul class="main-nav nav navbar-nav">
-                                                <li><a href="index.html">Inicio</a></li>
-                                                <li><a href="buscar.jsp">Buscar</a></li>
-                                                <li><a href="catalogo.jsp">Catálogo</a></li>
-                                                <li><a href="#openModal">Acerca de</a>
+                                                <li><a href="index.html">INICIO</a></li>
+                                                <li><a href="buscar.jsp">BUSCAR</a></li>
+                                                <li><a href="catalogo.jsp">CATALOGO</a></li>
+                                                <li><a href="#openModal">ACERCA DE</a>
                                                     <div id="openModal" class="modalDialog">
                                                                                                 <div id="contenidomod">
                                                                                                         <a href="#close" title="Close" class="close">X</a>
@@ -181,7 +181,7 @@
                                 <ul class="footer-links">
                                         <li><i class="fa fa-map-marker"></i>Av. Tezozómoc s/n, Colonia Alfredo Baranda, Valle de Chalco, Edo. de Méx. </li>
                                         <li><i class="fa fa-phone"></i>1708 5959</li>
-                                        <li><i class="fa fa-envelope-o"></i>kenia.ayala@tuvch.ibero.mx</li>
+                                        <li><i class="fa fa-envelope-o"></i>mavafrancisco@gmail.com</li>
                                 </ul>
                             </div>
 
